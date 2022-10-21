@@ -1,0 +1,19 @@
+.container{
+    width: 15vw;
+    height: 100hv;
+    border-right: solid 1px rgb(187, 187, 187);
+    padding: 10px;
+}
+.menuHeader{
+    width: 100%;
+    height: 70px;
+    background-color: rgb(217, 217, 217);
+}
+.menuContent{
+    width: 100%;
+    hyphens: auto;
+    margin-top: 20px;
+}
+.button{
+    width: 100%;
+}
